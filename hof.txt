@@ -1,0 +1,3 @@
+Cert-EU: https://cert.europa.eu/cert/newsletter/en/latest_HallOfFame_.html
+Erasmus University Rotterdam: https://www.eur.nl/en/campus/security-safety/information-security/hall-fame
+Singapore Government: https://hackerone.com/sg-vdp/thanks
